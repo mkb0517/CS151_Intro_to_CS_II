@@ -1,8 +1,6 @@
 /**============================================================================
  * Name        : p00.cpp
  * Author      : Matthew Brown
- * Version     :
- * Copyright   :
  * Description : The game of NIM
  *     Players must remove at least one star from one row each turn.
  *     To win, a player must always leave at least one star for the opponent.
